@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://scontent.fiev7-4.fna.fbcdn.net/v/t39.8562-6/274996398_521098259638615_837719570928357472_n.jpg?stp=dst-webp&_nc_cat=109&ccb=1-7&_nc_sid=430b19&_nc_ohc=jGT_o1Id3FQAX9KHFG8&_nc_oc=AQlexYin0x_3Q0-bNP7HkSNxNOWopzLfmBlU403ORy8IAYM2Ng4rxZRVab94d2bcbbI&_nc_ht=scontent.fiev7-4.fna&oh=00_AfBvSjuJkZpjoiqQuH9BUTd1SmO5f0La9ddF_lD3e9eQeg&oe=65AFF5C6" alt="Desktop Unity Logo" width="80">
+  <img src="https://scontent.oculuscdn.com/v/t64.5771-25/38974864_620951188494979_5710333155186049024_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e280be&_nc_ohc=pvLYKGdkv1UAX8UWzo3&_nc_ht=scontent.oculuscdn.com&oh=00_AfCb8DktZ5g5RgW255kwnz3FGIpSf7dheZ8Unjlc8Xx5xw&oe=65C5153F" alt="Desktop Unity Logo" width="200">
 </p>
 
 <h1 align="center"> Oculus E-Commerce Virtual Reality Application</h>
